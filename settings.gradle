@@ -1,0 +1,2 @@
+include ':app', ':gradle_plugin'
+include  ':buildsrc'
